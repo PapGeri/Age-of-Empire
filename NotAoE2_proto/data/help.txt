@@ -1,0 +1,8 @@
+You can zoom in and out with the W and S keys.
+You can move around the map with the ARROW keys.
+
+Action points: Decreases with every single move you make. 
+Once depleted you can't act anymore in your current turn.
+
+Population room: Increases with every single unit you create, and decreases with every single unit lost.
+Once reachead the maximum limit you can't recruit more units.
